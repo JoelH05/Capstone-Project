@@ -1,4 +1,4 @@
-# Capstone-Project
+# Capstone Project
 Elo Merchant Category Recommendation
 
 **Dataset Link:**
