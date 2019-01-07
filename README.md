@@ -1,5 +1,5 @@
 # Capstone-Project
-Udacity Final Project
+Elo Merchant Category Recommendation
 
 **Dataset Link:**
 
